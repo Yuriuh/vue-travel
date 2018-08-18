@@ -1,8 +1,8 @@
-## React-Music
+## HTML5-Player
 
 
 ### 一、简介
-该项目是基于React全家桶开发的一个音乐播放器，技术栈采用：Webpack + React + React-redux + React-router + Node + Sass + Es6 + Localstorage+ Css3，基本音乐API使用http-proxy酷狗音乐的，在此感谢酷狗音乐！项目涉及的知识点非常广泛，基于react全家桶技术都有使用，原创独立开发精品之作，具有很好的参考价值！
+该项目是基于 zepto 开发的一个音乐播放器，技术栈采用：gulp + zepto + html5 + es6 + css3
 
 1、项目依赖基本核心版本：
 * gulp: "^3.9.1",
@@ -46,7 +46,6 @@
 │      icon-play.png
 │      icon-playlist.png
 │      icon-prev.png
-│      jakob-owens-208991.jpg
 │
 ├─js
 │      audioManager.js
