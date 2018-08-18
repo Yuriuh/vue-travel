@@ -45,7 +45,7 @@
 
 3、项目图片预览：
 
-![首页](/pic.png)
+![首页](/travel.gif)
 
 ### 二、项目结构
 
@@ -114,8 +114,8 @@
 
 ####  1、将项目克隆到本地，cd 到 HTML5-Player
 ```javascript
-git clone 
-cd 
+git clone git@github.com:Yuriuh/vue-travel.git
+cd vue-travel
 ```
 #### 2、安装依赖
 ```javascript
