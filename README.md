@@ -112,7 +112,7 @@
 ```
 ### 三、如何执行
 
-####  1、将项目克隆到本地，cd 到 HTML5-Player
+####  1、将项目克隆到本地，cd 到 vue-travel
 ```javascript
 git clone git@github.com:Yuriuh/vue-travel.git
 cd vue-travel
